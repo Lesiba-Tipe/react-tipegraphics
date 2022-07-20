@@ -1,0 +1,23 @@
+{
+    "user" : 
+    [
+        {"name" : "Lesiba"},
+        {"name" : "Ofentse"},
+        {"name" : "Tipe"}
+    ],
+    "resume": "",
+
+    "what_we_do":
+    [
+        { "brand_design": 
+            [   
+                {"name": "coprate Identity"},
+                {"name": "logo"},
+                {"name": "Poster"},
+                {"name": "Bussness card"}
+            ] 
+        },
+        { "web_design": "" },
+        { "web_development": "" }
+    ]
+}
